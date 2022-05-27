@@ -2,7 +2,7 @@
 Scale echo3D across different platforms, including a WebGL build and interactive browser play using Simmer.io.
 
 ## Version
-[Unity 2020.2.2f1](https://unity3d.com/get-unity/download/archive)
+[Unity 2020.2.2f1](https://unity3d.com/get-unity/download/archive) <br>
 Download the WebGL package for Unity
 
 ## Play
