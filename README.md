@@ -16,9 +16,9 @@ Don't have an echo3D API key? Make sure to register for FREE at [echo3D](https:/
 * [Import the Unity SDK](https://docs.echo3d.co/unity/installation)
 * [Add the 'Background' asset](https://docs.echo3D.co/quickstart/add-a-3d-model) to the echo3D cloud from the Unity 'Models' folder
 * Uncheck the [Security](https://docs.echo3d.co/web-console/deliver-pages/security-page) box in your console
-* In Unity's Hierarchy in the 'Flappy Animal' scene modify the Canvas > BG
-  Add the echo3D API key and entry ID for the Background image
-  Make sure the Sprite Renderer box is unchecked
+* In Unity's Hierarchy in the 'Flappy Animal' scene modify the Canvas > BG <br>
+  Add the echo3D API key and entry ID for the Background image <br>
+  Make sure the Sprite Renderer box is unchecked <br>
 ![APIKeyandEntryId](https://user-images.githubusercontent.com/99516371/169384936-a779f128-be0c-4d69-b411-fff1e8824e33.png)
 ![Inspector](https://user-images.githubusercontent.com/99516371/170794953-4a9e4527-1704-4bcb-846f-553c653c5260.png)
 
