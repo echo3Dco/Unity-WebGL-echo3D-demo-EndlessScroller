@@ -1,21 +1,18 @@
-README
-
-
-# Unity-echo3D-demo-ConvertProjectToEcho
-Convert an existing Unity project by integrating echo3D. Compose music by clicking different instruments and go to band practice.
+# Unity-echo3D-demo-EndlessScroller
+Scale echo3D across different platforms, including a WebGL build and interactive browser play using Simmer.io.
 
 ## Version
 [Unity 2020.2.2f1](https://unity3d.com/get-unity/download/archive)
 Download the WebGL package for Unity
 
-Play
+## Play
 Play it on Simmer.io for free [here](https://simmer.io/@echobebe/endless-scroller-shark-edition).
 
 ## Register
 Don't have an echo3D API key? Make sure to register for FREE at [echo3D](https://console.echo3D.co/#/auth/register).
 
 ## Setup
-* Clone this [repo](https://github.com/echo3Dco/Unity-echo3D-demo-ConvertProjectToEcho)
+* Clone this [repo](https://github.com/echo3Dco/Unity-echo3D-Demo-EndlessScroller/)
 * [Import the Unity SDK](https://docs.echo3d.co/unity/installation)
 * [Add the 'Background' asset](https://docs.echo3D.co/quickstart/add-a-3d-model) to the echo3D cloud from the Unity 'Models' folder
 * Uncheck the [Security](https://docs.echo3d.co/web-console/deliver-pages/security-page) box in your console
