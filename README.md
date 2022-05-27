@@ -1,5 +1,5 @@
 # Unity-echo3D-demo-EndlessScroller
-Scale echo3D across different platforms, including WebGL and an interactive browser using Simmer.io.
+Scale echo3D across different platforms, including WebGL and an interactive Desktop browser using Simmer.io.
 
 ## Version
 [Unity 2020.2.2f1](https://unity3d.com/get-unity/download/archive) <br>
